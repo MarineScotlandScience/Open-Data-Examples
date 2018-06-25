@@ -1,0 +1,6 @@
+An example using R (version 3.5 used in development)
+To get the script to work, you need to downlaod the package dkanr with all of its dependencies. 
+
+
+This is an example using the dkanr package to access,  and manipulate open data from https://data.marine.gov.scot to create plots of annaul catch statistics + various other data exploration.
+
