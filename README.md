@@ -1,9 +1,13 @@
 # Open-Data-Examples
 Example scripts and methods for working with Marine Scotland Science Open Data.
 The examples will mainly focus on retrieving data from the Marine Scotland Open data network.
+
 The network consists of 3 portals:
+
 Marine Scotland Data: https://data.marine.gov.scot
+
 Marine Scotland Information: http://marine.gov.scot
+
 Marine Scotland Maps: http://maps.marine.gov.scot
 
 The individual examples can be found in folders. 
