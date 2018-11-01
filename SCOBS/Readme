@@ -1,0 +1,5 @@
+The SCOBS folder contain examples of using the Scottish Coastal Observatory data that are published in the Marine Scotland Data portal.
+Individual scripts have commetns throughtout, and are deisgned to work through step by step to help isslustrate how to retrieve the data, and examples of how to visualise or analyse the data as well.
+
+More scripts will be added gradually, but in most cases, the examples should be transferrable across different datasets, since the udnerlying downloadable data and API calls will have the same structure. 
+
